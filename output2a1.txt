@@ -1,0 +1,2 @@
+Accuracy = 99.6 %
+Time taken = 228.56781721115112 seconds
